@@ -4,6 +4,14 @@ Jeu de rôle textuel en Go, inspiré de l'univers Dofus. Vous incarnez un aventu
 
 ---
 
+## Élèves participants
+
+- **Xerly JI** — [@XERCORD](https://github.com/XERCORD)
+- **Eddy AMIR** — [@Kottah02](https://github.com/Kottah02)
+- **Etienne LE BERRE** — [@etiennelb95](https://github.com/etiennelb95)
+
+---
+
 ## Prérequis
 
 - **Go 1.23** ou supérieur ([télécharger Go](https://go.dev/dl/))
